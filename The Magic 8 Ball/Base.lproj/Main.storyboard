@@ -47,7 +47,6 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="buttonShake" destination="3mg-D4-FWr" id="vIt-1b-9MS"/>
                         <outlet property="labelAnswer" destination="MiD-jm-5fL" id="q9u-96-3Cc"/>
                     </connections>
                 </viewController>
